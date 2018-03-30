@@ -1,7 +1,57 @@
 .container {
+  font-family: 'Press Start 2P', cursive;
+  margin-top: 50px;
+  margin-bottom: 50px;
   max-width: 600px;
   text-align: center;
+  background-color: rgb(210, 210, 224, .80);
+  padding-color: black;
+  border-radius: 90px;
 }
+
+#title {
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  color: rgb(179, 0, 71, .60);
+  font-size: 39px;
+
+}
+
+body {
+  background-image: url("../img/galaxy.jpg");
+  font-family: 'Press Start 2P', cursive;
+  background-color: black;
+  background-position: center;
+  background-size: cover;
+}
+
 .beep {
-  max-width: 300px;
+  margin-top: -10px;
+  margin-bottom: 60px;
+  max-width: 200px;
+}
+
+.form-group{
+max-width: 300px;
+margin-left: 135px;
+font-family: 'Press Start 2P', cursive;
+font-size: 10px;
+
+}
+.form-name {
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  padding: 50px;
+  font-size: 18px;
+}
+#output {
+  max-width: 600px;
+  font-size: 15px;
+  font-family: 'Press Start 2P', cursive;
+  padding: 30px;
+  color: rgb(179, 0, 71, .60);
+
 }
