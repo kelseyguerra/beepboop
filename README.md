@@ -1,6 +1,6 @@
 # Beep Boop Beep Machine
 
-#### A basic webpage that allows users to input a number and will then produce an unique outcome depending on whether a 0, 1, or 3 are present in the number. {03/30/2018}
+#### A basic webpage that allows users to input a number and will then produce an unique outcome depending on whether a 0, 1, or 3 are present. {03/30/2018}
 
 #### By Kelsey Guerra
 
@@ -28,7 +28,7 @@ A basic webpage created with HTML, CSS, JavaScript, and Jquery that creates a un
 <a href="https://github.com/kelseyguerra/beepboop.git">this link</a> and clone repository
 
 ## Known Bugs
-* No known bugs at this time.
+* None.
 
 ## Technologies Used
 * HTML
