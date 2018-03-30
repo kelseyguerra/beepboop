@@ -9,7 +9,7 @@ function robotboy(number) {
   var output0 = "Beep!";
   var output1 = "Boop!";
   var output2 = "I'm sorry, ";
-  var output3= ". i'm afraid I can't do that.";
+  var output3= ". I'm afraid I can't do that.";
   var nameInput = $("input#name").val();
   var robotOutput = "";
   var range = [];
