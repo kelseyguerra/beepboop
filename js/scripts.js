@@ -21,7 +21,7 @@ function robotboy(number) {
         robotOutput = output1
         break
       } else if (userArray[i] === binary[0]) {
-        robotOutput = outputg0
+        robotOutput = output0
       } else {
         for (var j = 0; j <= number; j++) {
           range.push(j);
