@@ -21,14 +21,14 @@ A basic webpage created with HTML, CSS, JavaScript, and Jquery that creates a un
   * Output: "I'm sorry, Dave. I'm afraid I can't do that."
 * The program will output a range of numbers from 0 to the input number
   * User Input: "4"
-  * Output: "0,1,2,3,4"
-
+  * Output: "1,2,3,4"
+  
 ## Setup/Installation Requirements
 * Click
 <a href="https://github.com/kelseyguerra/beepboop.git">this link</a> and clone repository
 
 ## Known Bugs
-* None.
+* Website reacts differently when opened with Safari, rather than google chrome browser.
 
 ## Technologies Used
 * HTML

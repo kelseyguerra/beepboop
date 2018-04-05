@@ -1,12 +1,12 @@
 .container {
-  font-family: 'Press Start 2P', cursive;
+  background-color: rgb(210, 210, 224, .80);
   margin-top: 50px;
   margin-bottom: 50px;
   max-width: 600px;
   text-align: center;
-  background-color: rgb(210, 210, 224, .80);
   padding-color: black;
   border-radius: 90px;
+  font-family: 'Press Start 2P', cursive;
 }
 
 #title {
@@ -41,7 +41,7 @@ font-size: 10px;
 .form-name {
   font-size: 10px;
   margin-left: 185px;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
   max-width: 200px;
 }
 
@@ -58,3 +58,5 @@ h1 {
   font-family: 'Press Start 2P', cursive;
   padding: 30px;
   color: rgb(179, 0, 71, .60);
+
+}

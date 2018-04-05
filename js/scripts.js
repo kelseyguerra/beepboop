@@ -1,8 +1,5 @@
-$(document).ready(function() {
-  $("form#boop").submit(function(event) {
-    event.preventDefault();
-});
-});
+
+// business-logic //
 var binary = ["0", "1"];
 function robotboy(number) {
   var userArray = number.split("");
@@ -32,6 +29,13 @@ function robotboy(number) {
   return robotOutput
 }
 
+
+
+// user-interface logic //
+$(document).ready(function() {
+  $("form#boop").submit(function(event) {
+    event.preventDefault();
+});
 $(function() {
   $("#boop").submit(function(event) {
     event.preventDefault();
