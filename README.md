@@ -10,19 +10,12 @@ A basic webpage created with HTML, CSS, JavaScript, and Jquery that creates a un
 
 ## Specifications
 
-* The program will output a "Beep!" if the input includes a 0
-  * User Input: "10"
-  * Output: "Beep!"
-* The program will output a "Boop!" if the input includes a 1
-  * User Input: "1"
-  * Output: "Boop!"
-* The program will output a "I'm sorry, Dave. I'm afraid I can't do that." if the input is divisible by 3
-  * User Input: "6"
-  * Output: "I'm sorry, Dave. I'm afraid I can't do that."
-* The program will output a range of numbers from 0 to the input number
-  * User Input: "4"
-  * Output: "1,2,3,4"
-  
+------------ | ------------- | -------------
+Takes number(_n_) and returns range from 0 to n| 3 | [0, 1, 2, 3]
+Finds numbers in range(0-_n_) with 1+ occurrence of 0 and replaces with _"Beep!"_ | 3 | [_"Beep!"_, 1, 2, 3]
+Finds numbers in range(0-_n_) with 1+ occurrence of 1 and replaces with _"Boop!"_ | 3 | [_"Beep!"_, _"Boop!"_, 2, 3]
+Find numbers in range(0-n) divisible by 3 and replaces with _"I'm sorry, Dave. I'm afraid I can't do that."_ | 3 | [_"Beep!"_, _"Boop!"_, 2, _"I'm sorry, Dave. I'm afraid I can't do that."_]
+
 ## Setup/Installation Requirements
 * Click
 <a href="https://github.com/kelseyguerra/beepboop.git">this link</a> and clone repository
