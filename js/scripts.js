@@ -17,7 +17,7 @@ function robotBoy(number) {
       robotArray.push(i)
     }
   }
-return robotArray;
+  return robotArray;
 }
 
 
@@ -31,5 +31,5 @@ $(function() {
     var robotOutput = robotBoy(userInput);
     $("#output").append("<p>[" + robotOutput + "]<p>");
 
-    });
   });
+});
